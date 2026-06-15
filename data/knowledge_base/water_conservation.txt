@@ -1,0 +1,39 @@
+WATER CONSERVATION GUIDELINES FOR CAMPUSES AND HOSTELS
+
+DAILY USAGE BENCHMARKS (INDIA):
+- Shower: 10-15 litres per minute (limit to 5 minutes = 50-75L)
+- Bucket bath: 15-20 litres (preferred over shower)
+- Flushing toilet: 6-12 litres per flush (use half-flush when possible)
+- Brushing teeth with tap running: 12 litres/minute (use mug = 0.5L)
+- Washing clothes: 50-80 litres per load (full load only)
+- Campus cafeteria per meal: 5-10 litres for cooking + cleaning
+
+CAMPUS WATER SAVING TIPS:
+1. Report leaking taps and pipes immediately - one drip per second wastes 10,000 litres/year
+2. Install aerators on taps (reduces flow by 50% without affecting pressure)
+3. Use rainwater harvesting where available
+4. Reuse AC condensate water for gardening
+5. Water plants in early morning or evening to reduce evaporation
+6. Use broom instead of hose to clean outdoor areas
+
+HOSTEL SPECIFIC:
+- Take bucket baths instead of long showers
+- Turn off tap while soaping hands or brushing teeth
+- Collect RO reject water for mopping and toilet flushing
+- Wash clothes only with full loads
+- Do not waste drinking water on plants - use greywater
+
+MONSOON & DROUGHT AWARENESS:
+- During drought: limit showers to 3 minutes, no car/bike washing
+- During monsoon: maintain harvesting systems, check for contamination
+- Groundwater depletion affects 60% of Indian districts
+
+AI DECISION SUPPORT RULES:
+- If daily usage > 150L per person: HIGH consumption - recommend audit
+- If usage 100-150L: MODERATE - suggest 3 specific improvements
+- If usage < 100L: GOOD - maintain habits and help peers
+
+MEASURABLE IMPACT:
+- Fixing one leaking tap saves 10,000 litres annually
+- Bucket bath vs 10-min shower saves 80 litres per bath
+- A campus of 5000 students saving 20L/day each = 36.5 million litres/year

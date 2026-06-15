@@ -1,0 +1,45 @@
+CAMPUS SUSTAINABILITY POLICIES AND GREEN CAMPUS INITIATIVES
+
+GREEN CAMPUS FRAMEWORK (AICTE/UGC ALIGNED):
+1. Energy efficiency in buildings
+2. Water conservation and rainwater harvesting
+3. Waste management with segregation at source
+4. Green cover and biodiversity
+5. Sustainable transport promotion
+6. Environmental education and awareness
+
+STUDENT ROLE IN SUSTAINABILITY:
+- Participate in eco-clubs and green committees
+- Volunteer for waste audit drives
+- Advocate for plastic-free events
+- Document and report sustainability issues via grievance systems
+- Share knowledge with peers using digital tools
+
+EVENT SUSTAINABILITY CHECKLIST:
+- Use digital invitations, not printed flyers
+- Provide water dispensers instead of bottled water
+- Use steel/ceramic plates or biodegradable alternatives
+- Segregate event waste at source
+- Calculate and offset event carbon footprint
+
+RESPONSIBLE AI IN SUSTAINABILITY PROJECTS:
+- Use aggregated/anonymous data only for campus analytics
+- Clearly label AI-generated advice as guidance, not regulation
+- Avoid bias against communities with different resource access
+- Provide transparent reasoning for recommendations
+- Include human review for policy-level decisions
+
+GRIEVANCE CATEGORIES FOR SUSTAINABLE CAMPUSES:
+- Water wastage / leaking infrastructure
+- Improper waste disposal
+- Excessive energy use in labs/hostels
+- Loss of green cover
+- Air/noise pollution from construction
+- Lack of recycling facilities
+
+EXPECTED OUTCOMES OF AI-POWERED SUSTAINABILITY TOOLS:
+- 30% improvement in waste segregation accuracy
+- 20% reduction in per-capita water use through awareness
+- Measurable carbon footprint tracking per department
+- Faster access to policy information via RAG systems
+- Increased student engagement in SDG-aligned activities

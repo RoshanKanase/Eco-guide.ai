@@ -1,0 +1,47 @@
+CARBON FOOTPRINT REFERENCE - STUDENT & CAMPUS CONTEXT
+
+TRANSPORT EMISSIONS (kg CO2 per km):
+- Walking/Cycling: 0
+- Bus (public): 0.089 kg CO2/km
+- Metro/Rail: 0.041 kg CO2/km
+- Two-wheeler (petrol): 0.113 kg CO2/km
+- Car (petrol, single occupant): 0.192 kg CO2/km
+- Car (carpool, 4 people): 0.048 kg CO2/km
+- Auto-rickshaw: 0.115 kg CO2/km
+
+FOOD EMISSIONS (kg CO2 per meal approximate):
+- Vegan/vegetable meal: 0.5 kg CO2
+- Vegetarian with dairy: 1.2 kg CO2
+- Chicken meal: 2.5 kg CO2
+- Red meat meal: 5.0 kg CO2
+- Packaged/processed snack: 0.3-0.8 kg CO2
+
+ENERGY (kg CO2 per unit):
+- Electricity (India grid average): 0.82 kg CO2 per kWh
+- 1 hour laptop use: ~0.05 kg CO2
+- 1 hour AC (1.5 ton): ~1.2 kg CO2
+- Phone charge (full): ~0.008 kg CO2
+
+DAILY STUDENT FOOTPRINT BENCHMARKS:
+- Low impact lifestyle: 4-6 kg CO2/day
+- Average Indian student: 8-12 kg CO2/day
+- High consumption (AC + car + meat): 15-25 kg CO2/day
+
+REDUCTION STRATEGIES (ranked by impact):
+1. Switch 50% of trips to bus/metro/cycle: saves 2-4 kg CO2/day
+2. Reduce red meat to once a week: saves 3-5 kg CO2/week
+3. Turn off AC when room is empty: saves 5-10 kg CO2/day
+4. Use laptop power saving mode: saves 0.5 kg CO2/day
+5. Buy local/seasonal food in cafeteria: saves 0.5-1 kg CO2/day
+6. Avoid single-use plastic: saves 0.2 kg CO2/item
+
+CAMPUS INITIATIVES:
+- Solar panels on academic blocks reduce grid dependency by 30-40%
+- Tree plantation: one tree absorbs ~22 kg CO2/year
+- Paperless assignments save ~0.5 kg CO2 per student per semester
+- LED lighting upgrade saves 60% energy vs incandescent
+
+SDG ALIGNMENT:
+- SDG 12: Responsible consumption through food and waste choices
+- SDG 13: Climate action through emission reduction
+- SDG 11: Sustainable campus communities
