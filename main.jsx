@@ -1,1 +1,0 @@
-# React frontend starter for EcoGuide AI
